@@ -4,7 +4,7 @@ My name is Víctor. I'm a Software Engineer from Santiago, Chile 🇨🇱 . I'm 
 
 ## I enjoy programming
 
-* Javascript (Also Typescript)
+* Javascript (Also TypeScript)
 * Python
 * GO
 
