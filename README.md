@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Víctor. I'm a Software Engineer from Santiago, Chile 🇨🇱 . I'm currently working as a Full Stack Developer at Aevum.
+My name is Víctor. I'm a Software Engineer from Santiago, Chile 🇨🇱 . I'm currently working as a Software Engineer at Justo.
 
 ## I enjoy programming
 
